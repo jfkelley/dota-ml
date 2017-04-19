@@ -1,0 +1,3 @@
+# requirements.in
+numpy
+tensorflow
